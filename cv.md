@@ -1,15 +1,16 @@
 # Roman Peresypkin
 
 # Contacts
-## Location: Lutsk, Ukrain
-## Email: ramiro.gremory@gmail.com
-## GitHub: Ramzzes-Gremory
+* Location: Lutsk, Ukrain
+* Email: ramiro.gremory@gmail.com
+* GitHub: Ramzzes-Gremory
 # About Me
 Greetings, my name is Roman and I am self-taught in various areas of my life, including in terms of web development, what used to be a hobby for me - now I bring it to my income. I am currently learning Frontend. Further more...
 
 # My skills
 1. HTML
 1. CSS/SASS
+1. BEM
 1. JavaScript (Basic)
 1. Git
 # Code Example

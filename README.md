@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://ramzzes-gremory.github.io/rsschool-cv/cv
+https://github.com/Ramzzes-Gremory/rsschool-cv/blob/gh-pages/cv.md
